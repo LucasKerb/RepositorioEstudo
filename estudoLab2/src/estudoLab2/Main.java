@@ -5,8 +5,8 @@ public class Main {
 	public static void main(String[] args) {
 		Arcondicionado ar = new Arcondicionado();
 		
-		System.out.println("Aumentando a temperatura em 30");
-		ar.aumentaTemperatura(30);
+		System.out.println("Aumentando a temperatura em 2");
+		ar.aumentaTemperatura(2);
 		
 		System.out.println("Aumentando a temperatura em 30");
 		try{
